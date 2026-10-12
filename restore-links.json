@@ -1,0 +1,74 @@
+[
+  {
+    "path": "hbk/h3-repro/models/minimax-h3-fasth3-qwen50/FL2VA/text_encoder/chat_template.json",
+    "target": "models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/chat_template.json"
+  },
+  {
+    "path": "hbk/h3-repro/models/minimax-h3-fasth3-qwen50/FL2VA/text_encoder/merges.txt",
+    "target": "models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/merges.txt"
+  },
+  {
+    "path": "hbk/h3-repro/models/minimax-h3-fasth3-qwen50/FL2VA/text_encoder/model-00001-of-00012.safetensors",
+    "target": "models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00001-of-00014.safetensors"
+  },
+  {
+    "path": "hbk/h3-repro/models/minimax-h3-fasth3-qwen50/FL2VA/text_encoder/model-00002-of-00012.safetensors",
+    "target": "models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00002-of-00014.safetensors"
+  },
+  {
+    "path": "hbk/h3-repro/models/minimax-h3-fasth3-qwen50/FL2VA/text_encoder/model-00003-of-00012.safetensors",
+    "target": "models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00003-of-00014.safetensors"
+  },
+  {
+    "path": "hbk/h3-repro/models/minimax-h3-fasth3-qwen50/FL2VA/text_encoder/model-00004-of-00012.safetensors",
+    "target": "models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00004-of-00014.safetensors"
+  },
+  {
+    "path": "hbk/h3-repro/models/minimax-h3-fasth3-qwen50/FL2VA/text_encoder/model-00005-of-00012.safetensors",
+    "target": "models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00005-of-00014.safetensors"
+  },
+  {
+    "path": "hbk/h3-repro/models/minimax-h3-fasth3-qwen50/FL2VA/text_encoder/model-00006-of-00012.safetensors",
+    "target": "models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00006-of-00014.safetensors"
+  },
+  {
+    "path": "hbk/h3-repro/models/minimax-h3-fasth3-qwen50/FL2VA/text_encoder/model-00007-of-00012.safetensors",
+    "target": "models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00007-of-00014.safetensors"
+  },
+  {
+    "path": "hbk/h3-repro/models/minimax-h3-fasth3-qwen50/FL2VA/text_encoder/model-00008-of-00012.safetensors",
+    "target": "models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00008-of-00014.safetensors"
+  },
+  {
+    "path": "hbk/h3-repro/models/minimax-h3-fasth3-qwen50/FL2VA/text_encoder/model-00009-of-00012.safetensors",
+    "target": "models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00009-of-00014.safetensors"
+  },
+  {
+    "path": "hbk/h3-repro/models/minimax-h3-fasth3-qwen50/FL2VA/text_encoder/model-00010-of-00012.safetensors",
+    "target": "models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00010-of-00014.safetensors"
+  },
+  {
+    "path": "hbk/h3-repro/models/minimax-h3-fasth3-qwen50/FL2VA/text_encoder/preprocessor_config.json",
+    "target": "models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/preprocessor_config.json"
+  },
+  {
+    "path": "hbk/h3-repro/models/minimax-h3-fasth3-qwen50/FL2VA/text_encoder/tokenizer.json",
+    "target": "models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/tokenizer.json"
+  },
+  {
+    "path": "hbk/h3-repro/models/minimax-h3-fasth3-qwen50/FL2VA/text_encoder/tokenizer_config.json",
+    "target": "models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/tokenizer_config.json"
+  },
+  {
+    "path": "hbk/h3-repro/models/minimax-h3-fasth3-qwen50/FL2VA/text_encoder/video_preprocessor_config.json",
+    "target": "models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/video_preprocessor_config.json"
+  },
+  {
+    "path": "hbk/h3-repro/models/minimax-h3-fasth3-qwen50/FL2VA/text_encoder/vocab.json",
+    "target": "models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/vocab.json"
+  },
+  {
+    "path": "hbk/h3-repro/models/minimax-h3-fasth3-qwen50/text_encoder",
+    "target": "hbk/h3-repro/models/minimax-h3-fasth3-qwen50/FL2VA/text_encoder"
+  }
+]

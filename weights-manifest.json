@@ -1,0 +1,1635 @@
+{
+  "chunk_size": 1800000000,
+  "repository": "kkzzs/one-token",
+  "entries": [
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/model_index.json",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/model_index.json",
+      "relative_target": "models/MiniMax-H3-official-fl2va/model_index.json",
+      "size": 2936,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/model_index.json",
+          "offset": 0,
+          "size": 2936,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/.cache/huggingface/.gitignore",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/.cache/huggingface/.gitignore",
+      "relative_target": "models/MiniMax-H3-official-fl2va/.cache/huggingface/.gitignore",
+      "size": 1,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/.cache/huggingface/.gitignore",
+          "offset": 0,
+          "size": 1,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/.cache/huggingface/CACHEDIR.TAG",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/.cache/huggingface/CACHEDIR.TAG",
+      "relative_target": "models/MiniMax-H3-official-fl2va/.cache/huggingface/CACHEDIR.TAG",
+      "size": 191,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/.cache/huggingface/CACHEDIR.TAG",
+          "offset": 0,
+          "size": 191,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/.cache/huggingface/download/model_index.json.lock",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/.cache/huggingface/download/model_index.json.lock",
+      "relative_target": "models/MiniMax-H3-official-fl2va/.cache/huggingface/download/model_index.json.lock",
+      "size": 0,
+      "chunks": []
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/.cache/huggingface/download/model_index.json.metadata",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/.cache/huggingface/download/model_index.json.metadata",
+      "relative_target": "models/MiniMax-H3-official-fl2va/.cache/huggingface/download/model_index.json.metadata",
+      "size": 101,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/.cache/huggingface/download/model_index.json.metadata",
+          "offset": 0,
+          "size": 101,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/model_index.json",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/model_index.json",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/model_index.json",
+      "size": 719,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/model_index.json",
+          "offset": 0,
+          "size": 719,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/config.json",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/config.json",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/config.json",
+      "size": 1973,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/config.json",
+          "offset": 0,
+          "size": 1973,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/config.yaml",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/config.yaml",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/config.yaml",
+      "size": 91,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/config.yaml",
+          "offset": 0,
+          "size": 91,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/dac_activations.py",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/dac_activations.py",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/dac_activations.py",
+      "size": 2189,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/dac_activations.py",
+          "offset": 0,
+          "size": 2189,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/dac_alias_free_act.py",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/dac_alias_free_act.py",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/dac_alias_free_act.py",
+      "size": 835,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/dac_alias_free_act.py",
+          "offset": 0,
+          "size": 835,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/dac_alias_free_filter.py",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/dac_alias_free_filter.py",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/dac_alias_free_filter.py",
+      "size": 3300,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/dac_alias_free_filter.py",
+          "offset": 0,
+          "size": 3300,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/dac_alias_free_resample.py",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/dac_alias_free_resample.py",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/dac_alias_free_resample.py",
+      "size": 1740,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/dac_alias_free_resample.py",
+          "offset": 0,
+          "size": 1740,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/dac_attn_proj.py",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/dac_attn_proj.py",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/dac_attn_proj.py",
+      "size": 3317,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/dac_attn_proj.py",
+          "offset": 0,
+          "size": 3317,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/dac_audio_vae.py",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/dac_audio_vae.py",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/dac_audio_vae.py",
+      "size": 7266,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/dac_audio_vae.py",
+          "offset": 0,
+          "size": 7266,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/dac_bigvgan.py",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/dac_bigvgan.py",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/dac_bigvgan.py",
+      "size": 7102,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/dac_bigvgan.py",
+          "offset": 0,
+          "size": 7102,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/dac_utils.py",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/dac_utils.py",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/dac_utils.py",
+      "size": 362,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/dac_utils.py",
+          "offset": 0,
+          "size": 362,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/metadata.json",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/metadata.json",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/metadata.json",
+      "size": 440,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/metadata.json",
+          "offset": 0,
+          "size": 440,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/minimax_h3_audio_vae.py",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/minimax_h3_audio_vae.py",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/minimax_h3_audio_vae.py",
+      "size": 3532,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/minimax_h3_audio_vae.py",
+          "offset": 0,
+          "size": 3532,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/model.safetensors",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/model.safetensors",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/model.safetensors",
+      "size": 605429308,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/audio_vae/model.safetensors",
+          "offset": 0,
+          "size": 605429308,
+          "oid": "37dddc2f3e6d5d5139d823d5ea283bbf304dadcb885b1ccda818aa13dade5ea2"
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/processor/chat_template.json",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/processor/chat_template.json",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/processor/chat_template.json",
+      "size": 5499,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/processor/chat_template.json",
+          "offset": 0,
+          "size": 5499,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/processor/merges.txt",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/processor/merges.txt",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/processor/merges.txt",
+      "size": 1671839,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/processor/merges.txt",
+          "offset": 0,
+          "size": 1671839,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/processor/preprocessor_config.json",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/processor/preprocessor_config.json",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/processor/preprocessor_config.json",
+      "size": 390,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/processor/preprocessor_config.json",
+          "offset": 0,
+          "size": 390,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/processor/tokenizer.json",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/processor/tokenizer.json",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/processor/tokenizer.json",
+      "size": 7032403,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/processor/tokenizer.json",
+          "offset": 0,
+          "size": 7032403,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/processor/tokenizer_config.json",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/processor/tokenizer_config.json",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/processor/tokenizer_config.json",
+      "size": 11003,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/processor/tokenizer_config.json",
+          "offset": 0,
+          "size": 11003,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/processor/video_preprocessor_config.json",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/processor/video_preprocessor_config.json",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/processor/video_preprocessor_config.json",
+      "size": 385,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/processor/video_preprocessor_config.json",
+          "offset": 0,
+          "size": 385,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/processor/vocab.json",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/processor/vocab.json",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/processor/vocab.json",
+      "size": 2776833,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/processor/vocab.json",
+          "offset": 0,
+          "size": 2776833,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/chat_template.json",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/chat_template.json",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/chat_template.json",
+      "size": 5499,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/chat_template.json",
+          "offset": 0,
+          "size": 5499,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/config.json",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/config.json",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/config.json",
+      "size": 1474,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/config.json",
+          "offset": 0,
+          "size": 1474,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/merges.txt",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/merges.txt",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/merges.txt",
+      "size": 1671839,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/merges.txt",
+          "offset": 0,
+          "size": 1671839,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00001-of-00014.safetensors",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00001-of-00014.safetensors",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00001-of-00014.safetensors",
+      "size": 4932328944,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00001-of-00014.safetensors.part-000",
+          "offset": 0,
+          "size": 1800000000,
+          "oid": "4326fb4c3969a59011d38cf8c6903351fc4e543066bd69aa46d47c37075984c5"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00001-of-00014.safetensors.part-001",
+          "offset": 1800000000,
+          "size": 1800000000,
+          "oid": "a59206d89489cb1e799464b0fe6c63b35f2d5cdbf569fd541af914340aaa27d6"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00001-of-00014.safetensors.part-002",
+          "offset": 3600000000,
+          "size": 1332328944,
+          "oid": "c15eec4247dad9a92507cf9f0e1a08f0764ff0f969fd0ab267dc868bcc5bad4a"
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00002-of-00014.safetensors",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00002-of-00014.safetensors",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00002-of-00014.safetensors",
+      "size": 4875990528,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00002-of-00014.safetensors.part-000",
+          "offset": 0,
+          "size": 1800000000,
+          "oid": "a41f80130140c3d991047d40f5ba9bbbf2af57d1566d9f2682b64557f1f71bab"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00002-of-00014.safetensors.part-001",
+          "offset": 1800000000,
+          "size": 1800000000,
+          "oid": "acc444589d3b3074d4ecf3c9558086175030231b5b428a2761ae94b2467f8bc9"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00002-of-00014.safetensors.part-002",
+          "offset": 3600000000,
+          "size": 1275990528,
+          "oid": "78ccbfa60ed4d994cbce3c4db7f983019f5820c6dd941ccf5b65d52a0c689f34"
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00003-of-00014.safetensors",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00003-of-00014.safetensors",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00003-of-00014.safetensors",
+      "size": 4875990552,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00003-of-00014.safetensors.part-000",
+          "offset": 0,
+          "size": 1800000000,
+          "oid": "4b5855651f010b8b02893fc7dbbc70f0ec97a79167d0daabf85da7dc14a4d44e"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00003-of-00014.safetensors.part-001",
+          "offset": 1800000000,
+          "size": 1800000000,
+          "oid": "29e7db1c786570253aeeba72e886b788864cef1b4ec14bcfa519395a67f4b6aa"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00003-of-00014.safetensors.part-002",
+          "offset": 3600000000,
+          "size": 1275990552,
+          "oid": "d43801e48d5dcc8e1dbbd730ac97051f4153296e6f7e0a1b31d5f0dd61e75af6"
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00004-of-00014.safetensors",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00004-of-00014.safetensors",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00004-of-00014.safetensors",
+      "size": 4875990584,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00004-of-00014.safetensors.part-000",
+          "offset": 0,
+          "size": 1800000000,
+          "oid": "5c3e4ef0c73c7a69cbae25c2823954254fcc8409aeac6730722015049433b653"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00004-of-00014.safetensors.part-001",
+          "offset": 1800000000,
+          "size": 1800000000,
+          "oid": "2b763d6c24ae70e102ee63864e482c86fc5308d3e08459f8fd89eb515b0c95c0"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00004-of-00014.safetensors.part-002",
+          "offset": 3600000000,
+          "size": 1275990584,
+          "oid": "04514ba018d110090b76c8190c74f2c06b62790183ac6dd8a2cd235e4012c652"
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00005-of-00014.safetensors",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00005-of-00014.safetensors",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00005-of-00014.safetensors",
+      "size": 4875990584,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00005-of-00014.safetensors.part-000",
+          "offset": 0,
+          "size": 1800000000,
+          "oid": "a1a86ee580f1f283d482f7570dfaf308819ffb4a8c04878ffd1f6e4750ebdb17"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00005-of-00014.safetensors.part-001",
+          "offset": 1800000000,
+          "size": 1800000000,
+          "oid": "20a0950a2a3101f8d1af4268b6de7b206e4b48137c1d15b78f0a9c91dbdc25dd"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00005-of-00014.safetensors.part-002",
+          "offset": 3600000000,
+          "size": 1275990584,
+          "oid": "4c653727494ab31879b35cd0e2e26b5841b5b9e4b8164869bb4db375793854a8"
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00006-of-00014.safetensors",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00006-of-00014.safetensors",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00006-of-00014.safetensors",
+      "size": 4875990584,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00006-of-00014.safetensors.part-000",
+          "offset": 0,
+          "size": 1800000000,
+          "oid": "aeae33f268c5cdfca57a818a29565acd3cd859e44467f76ea755af0960fd7859"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00006-of-00014.safetensors.part-001",
+          "offset": 1800000000,
+          "size": 1800000000,
+          "oid": "9eb7368f2f4854564871f781536aad8bf4e25ea3cdd1a1e7a726511cca4f3e45"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00006-of-00014.safetensors.part-002",
+          "offset": 3600000000,
+          "size": 1275990584,
+          "oid": "cd549c2afaad50219184603ec5dc50bb8871ce4a3d8fc83f8f94d28a354e8537"
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00007-of-00014.safetensors",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00007-of-00014.safetensors",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00007-of-00014.safetensors",
+      "size": 4875990584,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00007-of-00014.safetensors.part-000",
+          "offset": 0,
+          "size": 1800000000,
+          "oid": "8ae318bdb889959448cd03ae4e35c29cbe8ba7593d3bd365925612907429b085"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00007-of-00014.safetensors.part-001",
+          "offset": 1800000000,
+          "size": 1800000000,
+          "oid": "f54f70848250a0ca0b92410aea195e42f49dac2258fcdf5daaa34464a0d93914"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00007-of-00014.safetensors.part-002",
+          "offset": 3600000000,
+          "size": 1275990584,
+          "oid": "776ae3b6e727c6c494d8e2069a2cc3aa2fcef5e2444ca0764c3efda40674cb46"
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00008-of-00014.safetensors",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00008-of-00014.safetensors",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00008-of-00014.safetensors",
+      "size": 4875990584,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00008-of-00014.safetensors.part-000",
+          "offset": 0,
+          "size": 1800000000,
+          "oid": "9a3c0e22c5f0ad072d98143dd051ae72d89b36e9c59480430a7bf9ac4bed80fb"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00008-of-00014.safetensors.part-001",
+          "offset": 1800000000,
+          "size": 1800000000,
+          "oid": "111ce5a6dbc3640b0915813bfc3a07d50cea03d6ff45d7b6601d4bc129f9161d"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00008-of-00014.safetensors.part-002",
+          "offset": 3600000000,
+          "size": 1275990584,
+          "oid": "d1b8be9bdd7d9d1f29f3739e57715a287da95fe78b108294ec535b8ef74a7959"
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00009-of-00014.safetensors",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00009-of-00014.safetensors",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00009-of-00014.safetensors",
+      "size": 4875990584,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00009-of-00014.safetensors.part-000",
+          "offset": 0,
+          "size": 1800000000,
+          "oid": "77d1b487d324596598a36dff74e5a92e2b02c8352afeda0e32595ef5f96e860c"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00009-of-00014.safetensors.part-001",
+          "offset": 1800000000,
+          "size": 1800000000,
+          "oid": "624af78c8daeb7d3e6f1ffc064230f1677137234a3b0566d24385072b2132e94"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00009-of-00014.safetensors.part-002",
+          "offset": 3600000000,
+          "size": 1275990584,
+          "oid": "32a4f673e289aa3ce550163ed7aa589021b1e4ec94237d594601405b6a6e4979"
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00010-of-00014.safetensors",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00010-of-00014.safetensors",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00010-of-00014.safetensors",
+      "size": 4875990584,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00010-of-00014.safetensors.part-000",
+          "offset": 0,
+          "size": 1800000000,
+          "oid": "99ebc9a2cecfd9140a83b6a2a59ebcf9b78136741e9e22512642e18bc9fb9e6d"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00010-of-00014.safetensors.part-001",
+          "offset": 1800000000,
+          "size": 1800000000,
+          "oid": "c8b0d0874b6c79f808970eba662240debdf716626afad975cb833e1b080adf62"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00010-of-00014.safetensors.part-002",
+          "offset": 3600000000,
+          "size": 1275990584,
+          "oid": "29987bf82f7fecfb8267f1ac5d92657634068ba68255fe9f973ab1734c0bf569"
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00011-of-00014.safetensors",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00011-of-00014.safetensors",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00011-of-00014.safetensors",
+      "size": 4875990584,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00011-of-00014.safetensors.part-000",
+          "offset": 0,
+          "size": 1800000000,
+          "oid": "fa88a6a34e5f853937cca7fb2d616342460950f452094d760b64f939880c2147"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00011-of-00014.safetensors.part-001",
+          "offset": 1800000000,
+          "size": 1800000000,
+          "oid": "dfbca15eb13b33e27468a30e1e90c8e097c79a236a5dc873f2e65e7019bf2afe"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00011-of-00014.safetensors.part-002",
+          "offset": 3600000000,
+          "size": 1275990584,
+          "oid": "b0365d6bf0dfc5aa2e64744bdeff885fa7007c94528c9dafae5aaafc3226a239"
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00012-of-00014.safetensors",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00012-of-00014.safetensors",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00012-of-00014.safetensors",
+      "size": 4875990584,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00012-of-00014.safetensors.part-000",
+          "offset": 0,
+          "size": 1800000000,
+          "oid": "81d20d79187345226b1931e8b3d23f9761692c9f305813b37647563a0b1d8d96"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00012-of-00014.safetensors.part-001",
+          "offset": 1800000000,
+          "size": 1800000000,
+          "oid": "e865351fd3a4b994e48ba0a256f7f866c08ee61a43a42c34da4b200429edb17b"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00012-of-00014.safetensors.part-002",
+          "offset": 3600000000,
+          "size": 1275990584,
+          "oid": "f46ad16e966ae555ee2a0ea8f806975d1593508c684489c562429d1683de1631"
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00013-of-00014.safetensors",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00013-of-00014.safetensors",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00013-of-00014.safetensors",
+      "size": 4875990584,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00013-of-00014.safetensors.part-000",
+          "offset": 0,
+          "size": 1800000000,
+          "oid": "639ec5405e7dc704e3675ff753b70c8bbb5cf081f6517a4a59d1ff0c4c0497e3"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00013-of-00014.safetensors.part-001",
+          "offset": 1800000000,
+          "size": 1800000000,
+          "oid": "c02c79f909b17beff59977f3878a6e7be552b4202fc19c68bb73a477f39e69b8"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00013-of-00014.safetensors.part-002",
+          "offset": 3600000000,
+          "size": 1275990584,
+          "oid": "2aabec79946be424796d4074e89e96338b7a95a3d399d9afdbd56600d3db1f8b"
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00014-of-00014.safetensors",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00014-of-00014.safetensors",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00014-of-00014.safetensors",
+      "size": 3270697008,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00014-of-00014.safetensors.part-000",
+          "offset": 0,
+          "size": 1800000000,
+          "oid": "1cf67dc7142e303947403255b39b0804f91709d05d2b18cfd9388259401ccf51"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model-00014-of-00014.safetensors.part-001",
+          "offset": 1800000000,
+          "size": 1470697008,
+          "oid": "23b781a09f0c5fa90098b9861ae30e33b3b15be8c002477d3a4abda6f460b1f2"
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model.safetensors.index.json",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model.safetensors.index.json",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model.safetensors.index.json",
+      "size": 97831,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/model.safetensors.index.json",
+          "offset": 0,
+          "size": 97831,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/preprocessor_config.json",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/preprocessor_config.json",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/preprocessor_config.json",
+      "size": 390,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/preprocessor_config.json",
+          "offset": 0,
+          "size": 390,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/tokenizer.json",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/tokenizer.json",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/tokenizer.json",
+      "size": 7032403,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/tokenizer.json",
+          "offset": 0,
+          "size": 7032403,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/tokenizer_config.json",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/tokenizer_config.json",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/tokenizer_config.json",
+      "size": 11003,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/tokenizer_config.json",
+          "offset": 0,
+          "size": 11003,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/video_preprocessor_config.json",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/video_preprocessor_config.json",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/video_preprocessor_config.json",
+      "size": 385,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/video_preprocessor_config.json",
+          "offset": 0,
+          "size": 385,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/vocab.json",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/vocab.json",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/vocab.json",
+      "size": 2776833,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder/vocab.json",
+          "offset": 0,
+          "size": 2776833,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/tokenizer/merges.txt",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/tokenizer/merges.txt",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/tokenizer/merges.txt",
+      "size": 1671839,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/tokenizer/merges.txt",
+          "offset": 0,
+          "size": 1671839,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/tokenizer/tokenizer.json",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/tokenizer/tokenizer.json",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/tokenizer/tokenizer.json",
+      "size": 7032403,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/tokenizer/tokenizer.json",
+          "offset": 0,
+          "size": 7032403,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/tokenizer/tokenizer_config.json",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/tokenizer/tokenizer_config.json",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/tokenizer/tokenizer_config.json",
+      "size": 11003,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/tokenizer/tokenizer_config.json",
+          "offset": 0,
+          "size": 11003,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/tokenizer/vocab.json",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/tokenizer/vocab.json",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/tokenizer/vocab.json",
+      "size": 2776833,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/tokenizer/vocab.json",
+          "offset": 0,
+          "size": 2776833,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/transformer/config.json",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/transformer/config.json",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/transformer/config.json",
+      "size": 604,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/transformer/config.json",
+          "offset": 0,
+          "size": 604,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00001-of-00013.safetensors",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00001-of-00013.safetensors",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00001-of-00013.safetensors",
+      "size": 5227812968,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00001-of-00013.safetensors.part-000",
+          "offset": 0,
+          "size": 1800000000,
+          "oid": "1302cfe476fb323aca7418350635cc1a31c9f7871fb9fed1382e24a336d8b4d2"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00001-of-00013.safetensors.part-001",
+          "offset": 1800000000,
+          "size": 1800000000,
+          "oid": "c0700e6b7670cdce0775ba56e11205b4c45d6958e53e6822e3074669c8120653"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00001-of-00013.safetensors.part-002",
+          "offset": 3600000000,
+          "size": 1627812968,
+          "oid": "75f92504c25ca7b06c2861019278fe78cfb5fe63af91a9607ef94e69ca16f214"
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00002-of-00013.safetensors",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00002-of-00013.safetensors",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00002-of-00013.safetensors",
+      "size": 5164578856,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00002-of-00013.safetensors.part-000",
+          "offset": 0,
+          "size": 1800000000,
+          "oid": "83640d89f39f1c6e1fcc01e8b169e410185d1ca215b6d61ba259265c34f2be8a"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00002-of-00013.safetensors.part-001",
+          "offset": 1800000000,
+          "size": 1800000000,
+          "oid": "2cf5157413dd0bc00d4b70f55f090cf1d523038993fbb2050e7bc960c80f0fdb"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00002-of-00013.safetensors.part-002",
+          "offset": 3600000000,
+          "size": 1564578856,
+          "oid": "6b878ab96921d1ec0ee98e4d9801698ba015518e8848a152725b50e44fe69b78"
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00003-of-00013.safetensors",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00003-of-00013.safetensors",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00003-of-00013.safetensors",
+      "size": 5164578872,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00003-of-00013.safetensors.part-000",
+          "offset": 0,
+          "size": 1800000000,
+          "oid": "95170373779df6ae2ee569e176a58cdc14f52808fd6665ab602ccaa93f823ea8"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00003-of-00013.safetensors.part-001",
+          "offset": 1800000000,
+          "size": 1800000000,
+          "oid": "19770d7a9f06656865e91fd801632823d3cc408ceb4801b1429debe4c732bdcc"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00003-of-00013.safetensors.part-002",
+          "offset": 3600000000,
+          "size": 1564578872,
+          "oid": "cbbc7cbdd1e439266a87f9167afe614dc121190d27307aec450dbdea3fba2f94"
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00004-of-00013.safetensors",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00004-of-00013.safetensors",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00004-of-00013.safetensors",
+      "size": 5164578896,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00004-of-00013.safetensors.part-000",
+          "offset": 0,
+          "size": 1800000000,
+          "oid": "bd5a2bcd71ab7ce6ee1e385299a236664833e4ff7e5b5cca405e9a3af751938e"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00004-of-00013.safetensors.part-001",
+          "offset": 1800000000,
+          "size": 1800000000,
+          "oid": "efe870e025f367bb91fa850973588f57ae5bcbca9b794a77af28f2ec17f5844c"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00004-of-00013.safetensors.part-002",
+          "offset": 3600000000,
+          "size": 1564578896,
+          "oid": "0cb2b152222b3e27340fa4da2408716e2b1cd5ccf3c400c764718f1b3b8b80c3"
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00005-of-00013.safetensors",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00005-of-00013.safetensors",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00005-of-00013.safetensors",
+      "size": 5164578896,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00005-of-00013.safetensors.part-000",
+          "offset": 0,
+          "size": 1800000000,
+          "oid": "71b712b8000db2e1ebf16410babebc09dd00b630419e20ecbfc5f3866b498992"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00005-of-00013.safetensors.part-001",
+          "offset": 1800000000,
+          "size": 1800000000,
+          "oid": "a9a1bf118842bb79c92cf4bf2372a8923ec399bb8b00ccbbf9ac3bc45e428b72"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00005-of-00013.safetensors.part-002",
+          "offset": 3600000000,
+          "size": 1564578896,
+          "oid": "32b83ae5d7de397ecdfa535ec213b9de21c947008c06977d25097d0378cdd041"
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00006-of-00013.safetensors",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00006-of-00013.safetensors",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00006-of-00013.safetensors",
+      "size": 5164578896,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00006-of-00013.safetensors.part-000",
+          "offset": 0,
+          "size": 1800000000,
+          "oid": "51942c4b8a24e08bc65c4f2f3b3e62723f4bfb2904c8f58f71ce42b3da750ea2"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00006-of-00013.safetensors.part-001",
+          "offset": 1800000000,
+          "size": 1800000000,
+          "oid": "c4e3b6c74170ae53da2059a8fe3b6d87690ca984c4d9335da7b32528150a6bfa"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00006-of-00013.safetensors.part-002",
+          "offset": 3600000000,
+          "size": 1564578896,
+          "oid": "417387f6c7299ed5890584cdd5f915345e15f31d9cc19e4734a0c4afe5eea95e"
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00007-of-00013.safetensors",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00007-of-00013.safetensors",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00007-of-00013.safetensors",
+      "size": 5164578896,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00007-of-00013.safetensors.part-000",
+          "offset": 0,
+          "size": 1800000000,
+          "oid": "4a1b532b28d9f00fb5f02b8cb4d54687969fa81738bfe20d7a947715aaa65cb2"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00007-of-00013.safetensors.part-001",
+          "offset": 1800000000,
+          "size": 1800000000,
+          "oid": "fdcf54a74c42a08410c40c7cb7acafdc4db5cff578855f534d846224a530044f"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00007-of-00013.safetensors.part-002",
+          "offset": 3600000000,
+          "size": 1564578896,
+          "oid": "85f8eeabafbf105c169b52b79783264d58fddecdaa62d804f06089fd363fe091"
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00008-of-00013.safetensors",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00008-of-00013.safetensors",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00008-of-00013.safetensors",
+      "size": 5164578896,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00008-of-00013.safetensors.part-000",
+          "offset": 0,
+          "size": 1800000000,
+          "oid": "6cb86e8b67800aecb24afada5a135a04a85fd2b399608fb8653337dd382ca867"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00008-of-00013.safetensors.part-001",
+          "offset": 1800000000,
+          "size": 1800000000,
+          "oid": "e339b6d1d7d02b13a8289f96bbf51d51fb9eec3f4060b18ff74f97996a2b6038"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00008-of-00013.safetensors.part-002",
+          "offset": 3600000000,
+          "size": 1564578896,
+          "oid": "6406ecb1224017eec79cb1978abf5c66b02d9f68ea313fb66cf70ac67c2437bf"
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00009-of-00013.safetensors",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00009-of-00013.safetensors",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00009-of-00013.safetensors",
+      "size": 5164578896,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00009-of-00013.safetensors.part-000",
+          "offset": 0,
+          "size": 1800000000,
+          "oid": "648d4e9e0926fd369e3586b03035cc7e1dd8074a4ff18f5598c21a9ba8accf5e"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00009-of-00013.safetensors.part-001",
+          "offset": 1800000000,
+          "size": 1800000000,
+          "oid": "550efee0ab9034eb5b1615666cd3be20b0ed139601dbd58b0272bd9b7205d07e"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00009-of-00013.safetensors.part-002",
+          "offset": 3600000000,
+          "size": 1564578896,
+          "oid": "82ad0ae5c4c9fbbbf852ec4ebe631a4b45aadba745e584f1987518032799848a"
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00010-of-00013.safetensors",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00010-of-00013.safetensors",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00010-of-00013.safetensors",
+      "size": 5164578896,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00010-of-00013.safetensors.part-000",
+          "offset": 0,
+          "size": 1800000000,
+          "oid": "7069aa03b5ba2843d3eee539ba6807b32577042aad02158c62f0fc404a31872d"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00010-of-00013.safetensors.part-001",
+          "offset": 1800000000,
+          "size": 1800000000,
+          "oid": "76fb90946a3f559e3caf151e7ebee5ff0e064e1a2a127f08bc49a4bcd470a728"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00010-of-00013.safetensors.part-002",
+          "offset": 3600000000,
+          "size": 1564578896,
+          "oid": "bb96bb28a0da127f0521febddd785d4454d78b5527ead5450a358fc05d699209"
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00011-of-00013.safetensors",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00011-of-00013.safetensors",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00011-of-00013.safetensors",
+      "size": 5164578896,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00011-of-00013.safetensors.part-000",
+          "offset": 0,
+          "size": 1800000000,
+          "oid": "ac88bb00e7f0e29a8d9c9aba6f0aee200b157eebcf7154507b89a7ef9578be0c"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00011-of-00013.safetensors.part-001",
+          "offset": 1800000000,
+          "size": 1800000000,
+          "oid": "cd19d54a8b8b8acf518891690ba9301f9fcd74947a8f9d76129e04e55ff3250e"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00011-of-00013.safetensors.part-002",
+          "offset": 3600000000,
+          "size": 1564578896,
+          "oid": "f156d10a969f5f70a712cae19b8f0041b74379af7105f8ab00fbbcd7eb97ec36"
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00012-of-00013.safetensors",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00012-of-00013.safetensors",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00012-of-00013.safetensors",
+      "size": 5164578896,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00012-of-00013.safetensors.part-000",
+          "offset": 0,
+          "size": 1800000000,
+          "oid": "2ba3e3a3f20e8a344b3bb6fb4ec872a30a5bef336a001cbadffcbc13ba8dff86"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00012-of-00013.safetensors.part-001",
+          "offset": 1800000000,
+          "size": 1800000000,
+          "oid": "0e459fc40c11cc49edf6f0b8c875f1e85858ed888fe3f3c41fbb1f9816584dad"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00012-of-00013.safetensors.part-002",
+          "offset": 3600000000,
+          "size": 1564578896,
+          "oid": "087fb9b3c518296dbf5ac0cd2601981e7182d4848f9e565927a97479f3623045"
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00013-of-00013.safetensors",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00013-of-00013.safetensors",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00013-of-00013.safetensors",
+      "size": 4242305176,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00013-of-00013.safetensors.part-000",
+          "offset": 0,
+          "size": 1800000000,
+          "oid": "f9b546979bb94f9f1a6d8c9d0b7f7d98b5c870472c0ce7094f6bd872dbf3c5da"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00013-of-00013.safetensors.part-001",
+          "offset": 1800000000,
+          "size": 1800000000,
+          "oid": "5769981021c337ca45e55354829f8b45a3b37d190dc1a030c9a5ba3a650ab241"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model-00013-of-00013.safetensors.part-002",
+          "offset": 3600000000,
+          "size": 642305176,
+          "oid": "24b32fb2ffbd862e4bc78e9206c53c44609bf7e236022ce285ab0c4b45c913ae"
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model.safetensors.index.json",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model.safetensors.index.json",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/transformer/model.safetensors.index.json",
+      "size": 38323,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/transformer/model.safetensors.index.json",
+          "offset": 0,
+          "size": 38323,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/attention.py",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/attention.py",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/video_vae/attention.py",
+      "size": 5785,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/attention.py",
+          "offset": 0,
+          "size": 5785,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/base_module.py",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/base_module.py",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/video_vae/base_module.py",
+      "size": 9520,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/base_module.py",
+          "offset": 0,
+          "size": 9520,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/config.json",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/config.json",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/video_vae/config.json",
+      "size": 1807,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/config.json",
+          "offset": 0,
+          "size": 1807,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/conv.py",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/conv.py",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/video_vae/conv.py",
+      "size": 4487,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/conv.py",
+          "offset": 0,
+          "size": 4487,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/flash.py",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/flash.py",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/video_vae/flash.py",
+      "size": 5763,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/flash.py",
+          "offset": 0,
+          "size": 5763,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/func.py",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/func.py",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/video_vae/func.py",
+      "size": 5840,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/func.py",
+          "offset": 0,
+          "size": 5840,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/klvae.py",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/klvae.py",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/video_vae/klvae.py",
+      "size": 48594,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/klvae.py",
+          "offset": 0,
+          "size": 48594,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/minimax_h3_video_vae.py",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/minimax_h3_video_vae.py",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/video_vae/minimax_h3_video_vae.py",
+      "size": 5123,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/minimax_h3_video_vae.py",
+          "offset": 0,
+          "size": 5123,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/norm.py",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/norm.py",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/video_vae/norm.py",
+      "size": 10686,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/norm.py",
+          "offset": 0,
+          "size": 10686,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/normalize.py",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/normalize.py",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/video_vae/normalize.py",
+      "size": 1200,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/normalize.py",
+          "offset": 0,
+          "size": 1200,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/parallel.py",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/parallel.py",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/video_vae/parallel.py",
+      "size": 12997,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/parallel.py",
+          "offset": 0,
+          "size": 12997,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/utils.py",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/utils.py",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/video_vae/utils.py",
+      "size": 764,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/utils.py",
+          "offset": 0,
+          "size": 764,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/vae_cnn.py",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/vae_cnn.py",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/video_vae/vae_cnn.py",
+      "size": 8836,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/vae_cnn.py",
+          "offset": 0,
+          "size": 8836,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/vae_module.py",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/vae_module.py",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/video_vae/vae_module.py",
+      "size": 1884,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/vae_module.py",
+          "offset": 0,
+          "size": 1884,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/vae_processor.py",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/vae_processor.py",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/video_vae/vae_processor.py",
+      "size": 8369,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/vae_processor.py",
+          "offset": 0,
+          "size": 8369,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/vae_vit.py",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/vae_vit.py",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/video_vae/vae_vit.py",
+      "size": 13490,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/vae_vit.py",
+          "offset": 0,
+          "size": 13490,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/source/config.json",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/source/config.json",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/video_vae/source/config.json",
+      "size": 1164,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/source/config.json",
+          "offset": 0,
+          "size": 1164,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/source/model.safetensors",
+      "restore_path": "/root/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/source/model.safetensors",
+      "relative_target": "models/MiniMax-H3-official-fl2va/FL2VA/video_vae/source/model.safetensors",
+      "size": 10415548320,
+      "chunks": [
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/source/model.safetensors.part-000",
+          "offset": 0,
+          "size": 1800000000,
+          "oid": "650c582046a5af343a54f7f1c2d74ac452f7879164fcfe99bb29a6bc87d57147"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/source/model.safetensors.part-001",
+          "offset": 1800000000,
+          "size": 1800000000,
+          "oid": "034c12085197cce2d82ca5caaa48c0ce5455ed2c4bb7a1e0a6f9caa1e2323099"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/source/model.safetensors.part-002",
+          "offset": 3600000000,
+          "size": 1800000000,
+          "oid": "e9b03d5573d47dfdb6306ffdad75ad06bd89919b1a052067c7978e22b723fe21"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/source/model.safetensors.part-003",
+          "offset": 5400000000,
+          "size": 1800000000,
+          "oid": "dc6ef735ad55e29158ba6608a01016bf2ac0dd88be3427eeb77f2db34126ddbb"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/source/model.safetensors.part-004",
+          "offset": 7200000000,
+          "size": 1800000000,
+          "oid": "3519cc8c6152502cd92b5ad3e2ef452bb5062a82cf50fbe5ec4782c6841e97b0"
+        },
+        {
+          "path": "payload/models/MiniMax-H3-official-fl2va/FL2VA/video_vae/source/model.safetensors.part-005",
+          "offset": 9000000000,
+          "size": 1415548320,
+          "oid": "7fbf2c33e819991f0b361c0e7bc17581f5adcbf2f3e54ddea45c251e36c6d2cf"
+        }
+      ]
+    },
+    {
+      "source": "/root/hbk/h3-repro/models/fast-h3-adapter/adapter_model.safetensors",
+      "restore_path": "/root/hbk/h3-repro/models/fast-h3-adapter/adapter_model.safetensors",
+      "relative_target": "hbk/h3-repro/models/fast-h3-adapter/adapter_model.safetensors",
+      "size": 1485626152,
+      "chunks": [
+        {
+          "path": "payload/hbk/h3-repro/models/fast-h3-adapter/adapter_model.safetensors",
+          "offset": 0,
+          "size": 1485626152,
+          "oid": "4ce198c83132251b7fd0de2503823aa49c53983f068318f66cb19eaefb7fcc12"
+        }
+      ]
+    },
+    {
+      "source": "/root/hbk/h3-repro/models/minimax-h3-fasth3-qwen50/FL2VA/text_encoder/config.json",
+      "restore_path": "/root/hbk/h3-repro/models/minimax-h3-fasth3-qwen50/FL2VA/text_encoder/config.json",
+      "relative_target": "hbk/h3-repro/models/minimax-h3-fasth3-qwen50/FL2VA/text_encoder/config.json",
+      "size": 1474,
+      "chunks": [
+        {
+          "path": "payload/hbk/h3-repro/models/minimax-h3-fasth3-qwen50/FL2VA/text_encoder/config.json",
+          "offset": 0,
+          "size": 1474,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/hbk/h3-repro/models/minimax-h3-fasth3-qwen50/FL2VA/text_encoder/model.safetensors.index.json",
+      "restore_path": "/root/hbk/h3-repro/models/minimax-h3-fasth3-qwen50/FL2VA/text_encoder/model.safetensors.index.json",
+      "relative_target": "hbk/h3-repro/models/minimax-h3-fasth3-qwen50/FL2VA/text_encoder/model.safetensors.index.json",
+      "size": 82661,
+      "chunks": [
+        {
+          "path": "payload/hbk/h3-repro/models/minimax-h3-fasth3-qwen50/FL2VA/text_encoder/model.safetensors.index.json",
+          "offset": 0,
+          "size": 82661,
+          "oid": null
+        }
+      ]
+    },
+    {
+      "source": "/root/hbk/h3-repro/models/minimax-h3-fasth3-qwen50/FL2VA/text_encoder/model-00011-of-00012.safetensors",
+      "restore_path": "/root/hbk/h3-repro/models/minimax-h3-fasth3-qwen50/FL2VA/text_encoder/model-00011-of-00012.safetensors",
+      "relative_target": "hbk/h3-repro/models/minimax-h3-fasth3-qwen50/FL2VA/text_encoder/model-00011-of-00012.safetensors",
+      "size": 1499486400,
+      "chunks": [
+        {
+          "path": "payload/hbk/h3-repro/models/minimax-h3-fasth3-qwen50/FL2VA/text_encoder/model-00011-of-00012.safetensors",
+          "offset": 0,
+          "size": 1499486400,
+          "oid": "c7e37e6c3fefa1c91eea2953d89c6bc22dff99e29df8dc995ea7b653fe024a40"
+        }
+      ]
+    },
+    {
+      "source": "/root/hbk/h3-repro/models/minimax-h3-fasth3-qwen50/FL2VA/text_encoder/model-00012-of-00012.safetensors",
+      "restore_path": "/root/hbk/h3-repro/models/minimax-h3-fasth3-qwen50/FL2VA/text_encoder/model-00012-of-00012.safetensors",
+      "relative_target": "hbk/h3-repro/models/minimax-h3-fasth3-qwen50/FL2VA/text_encoder/model-00012-of-00012.safetensors",
+      "size": 1190572912,
+      "chunks": [
+        {
+          "path": "payload/hbk/h3-repro/models/minimax-h3-fasth3-qwen50/FL2VA/text_encoder/model-00012-of-00012.safetensors",
+          "offset": 0,
+          "size": 1190572912,
+          "oid": "00eaac2776400ccd747dd15bb535ad790553dc43331c4e002402bd17bc7f3df8"
+        }
+      ]
+    },
+    {
+      "source": "/root/hbk/h3-repro/models/minimax-h3-fasth3-qwen50/qwen50-prune-manifest.json",
+      "restore_path": "/root/hbk/h3-repro/models/minimax-h3-fasth3-qwen50/qwen50-prune-manifest.json",
+      "relative_target": "hbk/h3-repro/models/minimax-h3-fasth3-qwen50/qwen50-prune-manifest.json",
+      "size": 1236,
+      "chunks": [
+        {
+          "path": "payload/hbk/h3-repro/models/minimax-h3-fasth3-qwen50/qwen50-prune-manifest.json",
+          "offset": 0,
+          "size": 1236,
+          "oid": null
+        }
+      ]
+    }
+  ]
+}

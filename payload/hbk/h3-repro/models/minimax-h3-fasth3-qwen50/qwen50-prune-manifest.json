@@ -1,0 +1,40 @@
+{
+  "source_model": "/root/models/MiniMax-H3-fasth3-preview-v1-dense-datafree-bf16",
+  "source_text_encoder": "/root/models/MiniMax-H3-official-fl2va/FL2VA/text_encoder",
+  "source_index_sha256": "06c952c569285870b811989b794b9766493e280fb77fbcb957fc4e5fcf25403a",
+  "selected_language_layers": 50,
+  "kept_layer_range": [
+    0,
+    49
+  ],
+  "removed_layer_range": [
+    50,
+    63
+  ],
+  "lm_head_removed": true,
+  "final_language_norm_removed": true,
+  "source_weight_keys": 1058,
+  "pruned_weight_keys": 902,
+  "removed_weight_keys": 156,
+  "source_shards": 14,
+  "pruned_shards": 12,
+  "linked_shards": [
+    "model-00001-of-00012.safetensors",
+    "model-00002-of-00012.safetensors",
+    "model-00003-of-00012.safetensors",
+    "model-00004-of-00012.safetensors",
+    "model-00005-of-00012.safetensors",
+    "model-00006-of-00012.safetensors",
+    "model-00007-of-00012.safetensors",
+    "model-00008-of-00012.safetensors",
+    "model-00009-of-00012.safetensors",
+    "model-00010-of-00012.safetensors"
+  ],
+  "rewritten_shards": [
+    "model-00011-of-00012.safetensors",
+    "model-00012-of-00012.safetensors"
+  ],
+  "source_tensor_bytes": 66714780128,
+  "pruned_tensor_bytes": 51506191840,
+  "saved_tensor_bytes": 15208588288
+}
